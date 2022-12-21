@@ -1,1 +1,1 @@
-Simple shell project be Manasseh and Carol Kiarie
+Simple Shell project be Manasseh and Carol Kiarie
