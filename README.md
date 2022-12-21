@@ -1,1 +1,1 @@
-Simple hell project be Manasseh and Carol Kiarie
+Simple shell project be Manasseh and Carol Kiarie
